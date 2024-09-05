@@ -1,0 +1,4 @@
+make rhe report button in such a way that
+when not hovering then it should be red bg and white text
+and when hovering it shoud be white bg and red text
+make sure that it is animated a little bit like ease in ease out
